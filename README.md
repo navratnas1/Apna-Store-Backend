@@ -3,6 +3,7 @@
 # Run Following commands 
 
 npm i
+
 run npm start
 
 # Live app on Heroku
